@@ -1,0 +1,20 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: CuadroDeTexto1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: CuadroDeTexto1
+    Id: g=c73ca38d079abcd9de1b510f58022af3
+    Supertype: TextBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 110.0
