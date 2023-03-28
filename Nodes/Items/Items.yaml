@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: CuadroDeTexto1
+- Name: ColorPicker1
   Type: ObjectLibraryItem
   Children:
-  - Name: CuadroDeTexto1
+  - Name: ColorPicker1
     Id: g=c73ca38d079abcd9de1b510f58022af3
     Supertype: TextBox
     ReferenceType: HasComponent
